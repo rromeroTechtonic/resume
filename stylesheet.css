@@ -1,0 +1,84 @@
+body {
+  font-family: sans-serif;
+}
+/* div.name {
+  background-color: #DCDCDC;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 20px;
+  width: 66%
+  float:right;
+  margin-left: 33%;
+  align-content: space-around;
+} */
+
+
+.h1 {
+  font-size: 50px
+}
+
+
+.h2 {
+  font-size: 40px
+}
+
+.h3 {
+  font-size: 30px
+}
+
+div.rr, div.name, div.contact, div.profile {
+  background-color: #DCDCDC;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+div.rr, div.name{
+  margin:10px 5px;
+}
+
+div.contact, div.profile{
+  margin: 10px 5px;
+}
+
+div.contact {
+  align-content: flex-start;
+}
+
+
+div.profile{
+  float: right;
+}
+
+/* div.profile {
+  background-color: #DCDCDC;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 20px;
+  width: 66%
+  float:right;
+  margin-left: 33%;
+  } */
+
+/* div.rr {
+  background-color: #DCDCDC;
+  border-radius: 10px;
+  padding: 5px;
+  width: 30%
+  float: left;
+  margin-right: 70%;
+} */
+
+/* div.contact, div.skills, div.ed {
+  background-color: #DCDCDC;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 20px;
+  width: 30%
+  float: left;
+  margin-right: 70%;
+} */
+/*   width: 33%
+  float:left;
+  margin-right: 70%;
+}/*
+--
