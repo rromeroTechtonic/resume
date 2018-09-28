@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  line-height: 1;
+}
+
+/* header {
+  border: solid 2px blue;
+} */
+
+.grayBox {
+  background-color: #DCDCDC;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
